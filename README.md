@@ -1,3 +1,3 @@
 # Hello-World
 Respository 1
-Wanta be bicyle rider
+Wanta be bicycle rider
